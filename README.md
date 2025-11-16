@@ -12,6 +12,11 @@
 
 ---
 
+## <b>- Streamlit App: </b>
+- URL: [https://prediction-heartdisease.streamlit.app/](https://prediction-heartdisease.streamlit.app/) 
+
+---
+
 ## <b>Project Overview</b>
 
 This project builds a machine learning model to predict heart disease using the public **Heart Failure Prediction Dataset** from Kaggle.
